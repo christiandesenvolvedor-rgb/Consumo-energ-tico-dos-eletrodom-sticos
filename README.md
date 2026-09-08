@@ -5,6 +5,6 @@
 - ![Git](https://shields.io)
 - ![GitHub](https://shields.io)
 - ![Energia](https://shields.io⚡-yellow?style=for-the-badge)
-- -<cor_em_hexa_decimal_>?style=<estilo_do_emblema>&logo=<logo_do_emblema>&logoColor=<cor_da_logo>
+- <cor_em_hexa_decimal_>?style=<estilo_do_emblema>&logo=<logo_do_emblema>&logoColor=<cor_da_logo>
 
 
